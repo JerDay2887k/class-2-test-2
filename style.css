@@ -1,5 +1,5 @@
 table{
-    border: 10px;
+    border: 200px;
 }
 .red{
     color:red;
@@ -21,4 +21,35 @@ font-style: bold;
 .grey{
     color:grey;
     font-style: bold;
+}
+.one{
+text-align:center ;
+font-size: 48px;
+}
+.two{
+    text-align:center ;
+    font-size: 48px;
+}
+.three{
+    text-align:center ;
+    font-size: 48px;
+}
+
+
+.four{
+    text-align:center ;
+    font-size: 48px;
+}
+
+.five{
+    text-align:center ;
+    font-size: 48px;
+}
+
+body{
+    background-color: #00ac9f;
+}
+img{
+    width: 200px;
+    height: 200px;
 }
